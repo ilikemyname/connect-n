@@ -70,9 +70,8 @@ public class Dialog_About extends JDialog implements ActionListener {
         addText(cons, new Insets(0, 5, 2, 5), body, "version 0.1.1");
         addText(cons, new Insets(5, 5, 5, 5), body, "");
         addText(cons, new Insets(1, 5, 1, 5), head, "developers");
-        addText(cons, new Insets(1, 5, 1, 5), body, "Nguyễn Thanh Luân");
-        addText(cons, new Insets(1, 5, 1, 5), body, "Hoàng Huy Cát");
-        addText(cons, new Insets(1, 5, 1, 5), body, "Hoàng Trương Định");
+        addText(cons, new Insets(1, 5, 1, 5), body, "Huy Le");
+        addText(cons, new Insets(1, 5, 1, 5), body, "Dang Hong Thanh");
         addText(cons, new Insets(5, 5, 5, 5), body, "");
         addText(cons, new Insets(1, 5, 1, 5), body,
                 "This application is an assignment for Software Architecture course,");
